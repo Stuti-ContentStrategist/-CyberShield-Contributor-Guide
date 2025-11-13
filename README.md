@@ -20,7 +20,7 @@ It outlines contribution workflows, formatting rules, review steps, and versioni
 | 🧱 [**Versioning Guidelines**](./#versioning-guidelines)                     | Align documentation updates with product release versions.                      |
 | 🧾 [**Content Ownership**](./#content-ownership)                             | Expectations for originality, accuracy, and consistency.                        |
 
-💡 **Tip:** New contributors should start with the **Style Guide** to understand tone, terminology, and formatting before making edits.
+> 💡 **Tip:** New contributors should start with the **Style Guide** to understand tone, terminology, and formatting before making edits.
 
 ***
 
