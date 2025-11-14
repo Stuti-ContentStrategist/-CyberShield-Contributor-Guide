@@ -109,7 +109,7 @@ Contributors must ensure:
 
 Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.&#x20;
 
-Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease. She ensures consistency in tone, structure, and formatting across all documentation, helping contributors follow a unified writing standard.
+Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease. She helps maintain **a consistent tone, structure, and format** across documentation so **contributors can follow a shared writing standard**.
 
 #### **Connect with the Author:**
 
