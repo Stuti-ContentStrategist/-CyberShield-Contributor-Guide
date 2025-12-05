@@ -1,30 +1,30 @@
-# 🧭 CyberShield Contributor Guide
+# CyberShield Contributor Guide
 
-## 🧱 Overview
+## Overview
 
 The CyberShield Contributor Guide provides clear instructions for writers, editors, and developers who want to contribute to the CyberShield Documentation Suite.
 
 It outlines contribution workflows, formatting rules, review steps, and versioning guidelines — ensuring all updates remain consistent, accurate, and aligned with CyberShield’s documentation standards.
 
-💡 **Tip:** Before contributing, review the **CyberShield Documentation Style Guide** to ensure your edits follow the approved tone, formatting, and visual conventions.
+> 💡 **Tip:** Before contributing, review the **CyberShield Documentation Style Guide** to ensure your edits follow the approved tone, formatting, and visual conventions.
 
 ***
 
-### 📚 Explore the Documentation
+### Explore the Documentation
 
-| **Section**                                                                  | **Purpose**                                                                     |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 🧩 [**Contribution Process**](./#contribution-process)                       | Step-by-step workflow for creating, editing, reviewing, and publishing updates. |
-| 🧰 [**Writing & Formatting Standards**](./#writing-and-formatting-standards) | Rules for tone, grammar, headings, visuals, and code formatting.                |
-| 🔐 [**Review & Approval Workflow**](./#review-and-approval-workflow)         | Required checks by peers, editors, and SMEs before publishing.                  |
-| 🧱 [**Versioning Guidelines**](./#versioning-guidelines)                     | Align documentation updates with product release versions.                      |
-| 🧾 [**Content Ownership**](./#content-ownership)                             | Expectations for originality, accuracy, and consistency.                        |
+| **Section**                                                               | **Purpose**                                                                     |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [**Contribution Process**](./#contribution-process)                       | Step-by-step workflow for creating, editing, reviewing, and publishing updates. |
+| [**Writing & Formatting Standards**](./#writing-and-formatting-standards) | Rules for tone, grammar, headings, visuals, and code formatting.                |
+| [**Review & Approval Workflow**](./#review-and-approval-workflow)         | Required checks by peers, editors, and SMEs before publishing.                  |
+| [**Versioning Guidelines**](./#versioning-guidelines)                     | Align documentation updates with product release versions.                      |
+| [**Content Ownership**](./#content-ownership)                             | Expectations for originality, accuracy, and consistency.                        |
 
 > 💡 **Tip:** New contributors should start with the **Style Guide** to understand tone, terminology, and formatting before making edits.
 
 ***
 
-### 🎯 Purpose of This Guide
+### Purpose of This Guide
 
 This guide helps contributors:
 
@@ -38,7 +38,7 @@ This guide helps contributors:
 
 ***
 
-### 🧩 Contribution Process
+### Contribution Process
 
 | Step                                  | Description                                                       |
 | ------------------------------------- | ----------------------------------------------------------------- |
@@ -56,7 +56,7 @@ This guide helps contributors:
 
 ***
 
-### 🧰 Writing & Formatting Standards
+### Writing & Formatting Standards
 
 All contributors must follow the **CyberShield Documentation Style Guide**.
 
@@ -72,7 +72,7 @@ All contributors must follow the **CyberShield Documentation Style Guide**.
 
 ***
 
-### 🔐 Review & Approval Workflow
+### Review & Approval Workflow
 
 * **Peer Review** — Validates clarity, readability, and structure.
 * **Editor Check** — Confirms tone, style consistency, and compliance.
@@ -83,7 +83,7 @@ All contributors must follow the **CyberShield Documentation Style Guide**.
 
 ***
 
-### 🧱 Versioning Guidelines
+### Versioning Guidelines
 
 | Update Type      | Example | Description                                     |
 | ---------------- | ------- | ----------------------------------------------- |
@@ -95,7 +95,7 @@ All contributors must follow the **CyberShield Documentation Style Guide**.
 
 ***
 
-### 🧾 Content Ownership
+### Content Ownership
 
 Contributors must ensure:
 
@@ -105,9 +105,9 @@ Contributors must ensure:
 
 ***
 
-### 🧾 About the Author
+### About the Author
 
-Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.&#x20;
+Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.
 
 Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease. She helps maintain **a consistent tone, structure, and format** across documentation so **contributors can follow a shared writing standard**.
 
@@ -122,9 +122,9 @@ Learn more → [**About the Author**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt
 
 ***
 
-#### 🧭 **End of Guide!**
+#### **End of Guide!**
 
-🎉 Great work — you’ve completed the **CyberShield Contributor Guide**!
+Great work — you’ve completed the **CyberShield Contributor Guide**!
 
 You now know how to:
 
@@ -134,5 +134,4 @@ You now know how to:
 * Collaborate with editors, reviewers, and SMEs for technical accuracy
 * Align all documentation contributions with CyberShield’s release cycles and versioning practices
 
-📚 To dive into product collateral, campaign ideas, social media content, and brand messaging examples, continue through the [**CyberShield Marketing Portfolio**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/MMJTF2hNzQn82Wt9wDxg/).
-
+To dive into product collateral, campaign ideas, social media content, and brand messaging examples, continue through the [**CyberShield Marketing Portfolio**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/MMJTF2hNzQn82Wt9wDxg/).
